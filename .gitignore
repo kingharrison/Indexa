@@ -1,0 +1,39 @@
+# Xcode user data
+*.xcuserdata/
+xcuserdata/
+*.xcuserdatad/
+
+# Build artifacts
+build/
+DerivedData/
+.build/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+
+# Environment / secrets
+.env
+.env.local
+*.pem
+*.p12
+
+# Archives
+*.xcarchive
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+Package.resolved

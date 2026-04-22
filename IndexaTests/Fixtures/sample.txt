@@ -1,0 +1,7 @@
+The quick brown fox jumps over the lazy dog.
+
+This is a sample text file used for testing document parsing.
+It contains multiple paragraphs of plain text content.
+
+The DocumentParser should extract all of this text correctly,
+preserving the paragraph structure and content.
